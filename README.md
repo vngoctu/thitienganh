@@ -6,9 +6,7 @@
 ```
 
 ### Giới thiệu:
-```
 Website làm bài thi tiếng anh online, tương tác trả lời câu hỏi dạng chọn đáp án A B C D, có thể biết điểm, chữa đề thi ngay sau khi nộp bài.
-```
 
 ### Công nghệ sử dụng:
 - Nền tảng: HTML, CSS, JavaScript
@@ -28,8 +26,8 @@ Website làm bài thi tiếng anh online, tương tác trả lời câu hỏi d�
 - Vue Router: Điều hướng link trang web
 
 ### Tài liệu tham khảo:
-[1]: [Vue CLI](https://cli.vuejs.org/)
-[2]: [VueX](https://vuex.vuejs.org/)
-[3]: [Vue Router](https://router.vuejs.org/)
-[4]: [Youtube Lập trình viên TV](https://www.youtube.com/@laptrinhvientv192)
-[5]: [Youtube RHP Team](https://www.youtube.com/@RHPTeam)
+- [1]: [Vue CLI](https://cli.vuejs.org/)
+- [2]: [VueX](https://vuex.vuejs.org/)
+- [3]: [Vue Router](https://router.vuejs.org/)
+- [4]: [Youtube Lập trình viên TV](https://www.youtube.com/@laptrinhvientv192)
+- [5]: [Youtube RHP Team](https://www.youtube.com/@RHPTeam)
