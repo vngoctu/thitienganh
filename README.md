@@ -29,5 +29,7 @@ Website làm bài thi tiếng anh online, tương tác trả lời câu hỏi d�
 - [1]: [Vue CLI](https://cli.vuejs.org/)
 - [2]: [Vue X](https://vuex.vuejs.org/)
 - [3]: [Vue Router](https://router.vuejs.org/)
-- [4]: [Youtube Lập trình viên TV](https://www.youtube.com/@laptrinhvientv192)
-- [5]: [Youtube RHP Team](https://www.youtube.com/@RHPTeam)
+
+### Nguồn tham khảo khác
+- [1]: [Youtube Lập trình viên TV](https://www.youtube.com/@laptrinhvientv192)
+- [2]: [Youtube RHP Team](https://www.youtube.com/@RHPTeam)
