@@ -1,9 +1,8 @@
 # Thi Tiếng anh Quốc gia
 
 ## Xem dự án:
-```
 [Thi Tiếng anh Quốc gia](https://thi.tuz.vn/)
-```
+
 
 ### Giới thiệu:
 Website làm bài thi tiếng anh online, tương tác trả lời câu hỏi dạng chọn đáp án A B C D, có thể biết điểm, chữa đề thi ngay sau khi nộp bài.
