@@ -1,19 +1,27 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Headers />
+    <RouterView :key="$route.params.id"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Headers from './components/Header.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Headers,
+
+  },
+  data() {
+    return {
+
+    }
   }
 }
+
+  
 </script>
 
 <style>
@@ -23,6 +31,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>
