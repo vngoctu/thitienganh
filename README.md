@@ -26,6 +26,7 @@ Website làm bài thi tiếng anh online, tương tác trả lời câu hỏi d�
 
 ### Tài liệu tham khảo:
 - [1]: [Vue CLI](https://cli.vuejs.org/)
+- [2]: [Vue CLI](https://vuex.vuejs.org/)
 - [2]: [VueX](https://vuex.vuejs.org/)
 - [3]: [Vue Router](https://router.vuejs.org/)
 - [4]: [Youtube Lập trình viên TV](https://www.youtube.com/@laptrinhvientv192)
