@@ -17,6 +17,7 @@ Website làm bài thi tiếng anh online, tương tác trả lời câu hỏi d�
 - Hiển thị đáp án vừa chọn lên chỗ trống trên câu hỏi
 - Đếm ngược thời gian thi
 - Chấm điểm tự động
+- Chữa đáp án (Hiển thị đáp án đúng / sai)
 - Popup
 
 ### Chức năng Vue:
